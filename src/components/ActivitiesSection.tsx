@@ -5,7 +5,7 @@ const ActivitiesSection = () => {
   const activities = [
     {
       title: "Arts & Crafts",
-      description: "Creative expression through painting, drawing, and crafting projects.",
+      description: "Creative expression through painting, drawing, and crafting projectsqq.",
       icon: <Palette className="w-10 h-10 text-preschool-coral" />,
       color: "bg-preschool-light-coral"
     },
